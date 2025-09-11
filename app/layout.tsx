@@ -3,7 +3,7 @@ import Providers from "./providers";
 
 export const metadata = {
   title: "User Management",
-  description: "Replica project with Next.js + TanStack Query + Redux",
+  description: "Project with Next.js + TanStack Query + Redux",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
